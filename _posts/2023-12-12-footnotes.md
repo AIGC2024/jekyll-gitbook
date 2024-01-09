@@ -8,7 +8,7 @@ mermaid: true
 ---
 
 This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
-in markdown.
+in markdown.....
 
 e.g.,
 
