@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'http://ai.old-labs.com/'
+url:              'https://ai.old-labs.com/'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
